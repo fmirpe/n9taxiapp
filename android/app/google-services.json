@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "31172218743",
+    "firebase_url": "https://n9driverapp-default-rtdb.firebaseio.com",
+    "project_id": "n9driverapp",
+    "storage_bucket": "n9driverapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31172218743:android:f216a0fde4aed4e87c5b72",
+        "android_client_info": {
+          "package_name": "com.lemtech.n9drivers.n9drivers_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpyrJlOBgcTcOgCsZqqLv_gdq_7lUUi34"
+        },
+        {
+          "current_key": "AIzaSyDFe6rFUJ92aJfaclFWMk51VvNaXAqQpQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31172218743:android:18a3b85a5b79da0d7c5b72",
+        "android_client_info": {
+          "package_name": "com.lemtech.n9drivers.n9users_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpyrJlOBgcTcOgCsZqqLv_gdq_7lUUi34"
+        },
+        {
+          "current_key": "AIzaSyDFe6rFUJ92aJfaclFWMk51VvNaXAqQpQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31172218743:android:0451162c780fdecb7c5b72",
+        "android_client_info": {
+          "package_name": "com.lemtech.n9taxiapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpyrJlOBgcTcOgCsZqqLv_gdq_7lUUi34"
+        },
+        {
+          "current_key": "AIzaSyDFe6rFUJ92aJfaclFWMk51VvNaXAqQpQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
