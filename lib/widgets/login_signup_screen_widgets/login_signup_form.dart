@@ -10,7 +10,7 @@ import 'form_button.dart';
 import '../../models/auth_mode.dart';
 
 class LoginForm extends StatefulWidget {
-  const LoginForm({Key? key}) : super(key: key);
+  const LoginForm({super.key});
 
   @override
   State<LoginForm> createState() => _LoginFormState();

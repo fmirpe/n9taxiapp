@@ -4,7 +4,7 @@ import '../../models/map_action.dart';
 import '../../providers/map_provider.dart';
 
 class TripStarted extends StatelessWidget {
-  const TripStarted({Key? key, this.mapProvider}) : super(key: key);
+  const TripStarted({super.key, this.mapProvider});
 
   final MapProvider? mapProvider;
 

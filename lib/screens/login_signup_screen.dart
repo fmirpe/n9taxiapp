@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import '../widgets/login_signup_screen_widgets/login_signup_form.dart';
 
 class LoginSignupScreen extends StatelessWidget {
-  const LoginSignupScreen({Key? key}) : super(key: key);
+  const LoginSignupScreen({super.key});
 
   static const String route = '/login-signup';
 

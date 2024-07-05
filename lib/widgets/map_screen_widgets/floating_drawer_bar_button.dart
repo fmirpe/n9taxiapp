@@ -2,9 +2,9 @@ import 'package:flutter/material.dart';
 
 class FloatingDrawerBarButton extends StatelessWidget {
   const FloatingDrawerBarButton({
-    Key? key,
+    super.key,
     this.scaffoldKey,
-  }) : super(key: key);
+  });
 
   final GlobalKey<ScaffoldState>? scaffoldKey;
 

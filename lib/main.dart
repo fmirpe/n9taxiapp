@@ -26,7 +26,7 @@ Future<void> main() async {
 }
 
 class TaxiApp extends StatelessWidget {
-  const TaxiApp({Key? key}) : super(key: key);
+  const TaxiApp({super.key});
 
   @override
   Widget build(BuildContext context) {

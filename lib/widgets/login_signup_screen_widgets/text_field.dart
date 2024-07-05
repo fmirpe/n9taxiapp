@@ -2,12 +2,12 @@ import 'package:flutter/material.dart';
 
 class InputTextField extends StatelessWidget {
   const InputTextField({
-    Key? key,
+    super.key,
     required this.title,
     required this.icon,
     this.password = false,
     this.handler,
-  }) : super(key: key);
+  });
 
   final String title;
   final String? Function(String? value)? handler;

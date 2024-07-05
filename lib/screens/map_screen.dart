@@ -14,7 +14,7 @@ import '../widgets/map_screen_widgets/search_driver.dart';
 import '../widgets/map_screen_widgets/trip_started.dart';
 
 class MapScreen extends StatefulWidget {
-  const MapScreen({Key? key}) : super(key: key);
+  const MapScreen({super.key});
 
   static const String route = '/home';
 

@@ -4,7 +4,7 @@ import '../../models/map_action.dart';
 import '../../providers/map_provider.dart';
 
 class DriverArriving extends StatelessWidget {
-  const DriverArriving({Key? key, this.mapProvider}) : super(key: key);
+  const DriverArriving({super.key, this.mapProvider});
 
   final MapProvider? mapProvider;
 

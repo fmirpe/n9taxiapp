@@ -7,7 +7,7 @@ import '../../providers/map_provider.dart';
 import '../../services/database_service.dart';
 
 class ConfirmPickup extends StatelessWidget {
-  const ConfirmPickup({Key? key, this.mapProvider}) : super(key: key);
+  const ConfirmPickup({super.key, this.mapProvider});
 
   final MapProvider? mapProvider;
 

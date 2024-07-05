@@ -8,9 +8,9 @@ import '../../services/database_service.dart';
 
 class SearchDriver extends StatelessWidget {
   const SearchDriver({
-    Key? key,
+    super.key,
     this.mapProvider,
-  }) : super(key: key);
+  });
 
   final MapProvider? mapProvider;
 

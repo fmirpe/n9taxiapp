@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 
 class FormButton extends StatelessWidget {
   const FormButton({
-    Key? key,
+    super.key,
     required this.title,
     required this.handler,
-  }) : super(key: key);
+  });
 
   final String title;
   final VoidCallback handler;

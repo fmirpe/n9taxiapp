@@ -5,7 +5,7 @@ import 'login_signup_screen.dart';
 import 'map_screen.dart';
 
 class OnboardingScreen extends StatelessWidget {
-  const OnboardingScreen({Key? key}) : super(key: key);
+  const OnboardingScreen({super.key});
 
   static const String route = '/onboarding';
 
